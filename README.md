@@ -22,5 +22,5 @@ Tic-tac-toe, noughts and crosses, or Xs and Os is a game for two players who tak
 
 ## Badges
 
-[![HitCount](http://hits.dwyl.com/surajgirioffl/Bookmarks.svg?style=flat-square)](http://hits.dwyl.com/surajgirioffl/TicTacToe)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsurajgirioffl%2FTicTacToe&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)

@@ -14,10 +14,10 @@ Tic-tac-toe, noughts and crosses, or Xs and Os is a game for two players who tak
 
 ## Screenshots
 <p align="center">
-<img src="/images/Screenshot_1.png" alt="Screenshot1" width="45%">
+<img src="/images/Screenshot_1.png" alt="Screenshot1">
 <br/>
 <br/>
-<img src="/images/Screenshot_2.png" alt="Screenshot1" width="45%">
+<img src="/images/Screenshot_2.png" alt="Screenshot1">
 </p>
 
 ## Authors
